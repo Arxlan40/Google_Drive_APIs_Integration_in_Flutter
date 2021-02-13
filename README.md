@@ -3,5 +3,5 @@
 
 
 ## Output
-![alt text](https:///github.com/Arxlan40/Google_Drive_APIs_Integration_in_Flutter/master/1.gif)
+![alt text](https://github.com/Arxlan40/Google_Drive_APIs_Integration_in_Flutter/blob/master/screenshots/1.gif)
 
