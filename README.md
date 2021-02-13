@@ -3,5 +3,5 @@
 
 
 ## Output
-![alt text](https://raw.githubusercontent.com/myvsparth/flutter_gdrive/master/screenshots/google drive with flutter.gif)
+![alt text](https://raw.githubusercontent.com/myvsparth/flutter_gdrive/master/1.gif)
 
