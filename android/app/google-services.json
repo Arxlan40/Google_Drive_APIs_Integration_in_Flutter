@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "296332874412",
+    "project_id": "talaash-63ef5",
+    "storage_bucket": "talaash-63ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296332874412:android:b6792edb82c0c07567c509",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296332874412-f2vp0ef117u4b18ffeaeu4i1n0299468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_gdrive",
+            "certificate_hash": "db2727f78b9ceafd6b4fbcd49f0ddd4b39fa43e7"
+          }
+        },
+        {
+          "client_id": "296332874412-pabj4in3f06o8kt0liuk2qis4tm0itgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjl4-q0UcRzu-2YdVKRFgrEjTSLTlX5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296332874412-pabj4in3f06o8kt0liuk2qis4tm0itgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296332874412:android:c95a72bba17a9cc567c509",
+        "android_client_info": {
+          "package_name": "webview.food.vendorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296332874412-pabj4in3f06o8kt0liuk2qis4tm0itgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjl4-q0UcRzu-2YdVKRFgrEjTSLTlX5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296332874412-pabj4in3f06o8kt0liuk2qis4tm0itgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
